@@ -1,2 +1,2 @@
-# project-ad-metrics
-Data dashboards for visualizing performance of ads
+# Tracking the Ads Metrics using Power BI Dashboard
+
